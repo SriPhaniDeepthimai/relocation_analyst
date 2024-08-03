@@ -4,9 +4,9 @@ This Streamlit application helps users find the best city based on their prefere
 
 ## ✨ Features
 
-- 🏙️ **City Recommendations**: Get personalized city recommendations based on your preferences.
-- 📊 **City Details**: Retrieve detailed information about specific cities.
-- 🤖 **Chatbot**: Ask questions related to city attributes like temperature, humidity, budget, air quality, and schools.
+- 🏙️ **City Recommendations**: Use the sidebar to select your preferences for weather, temperature, humidity, air quality, and cost of living. The app will display a list of recommended cities based on these preferences.
+- 📊 **City Details**: Type the name of a city in the text input field to get detailed information about that city.
+- 🤖 **Chatbot**:Click on the "Chat with our bot" button and select a question to interact with the chatbot.
 
 ## 🚀 Installation
 
@@ -14,7 +14,7 @@ To run this application locally, follow these steps:
 
 1. 📥 **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/relocation-analyst.git
+    git clone https://github.com/SriPhaniDeepthimai/relocation-analyst.git
     cd relocation-analyst
     ```
 
@@ -31,14 +31,6 @@ To run this application locally, follow these steps:
     ```bash
     streamlit run relocation.py
     ```
-
-## 🛠️ Usage
-
-- 🏙️ **City Recommendations**: Use the sidebar to select your preferences for weather, temperature, humidity, air quality, and cost of living. The app will display a list of recommended cities based on these preferences.
-
-- 📊 **City Details**: Type the name of a city in the text input field to get detailed information about that city.
-
-- 🤖 **Chatbot**: Click on the "Chat with our bot" button and select a question to interact with the chatbot.
 
 ## 🗂️ File Structure
 
